@@ -13,12 +13,15 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-[![Codewarrior Profile Badges](https://www.codewars.com/users/_nemesis_/badges/large)](https://www.codewars.com/users/_nemesis_)
-
 Немного обо мне:
-- 😼 Есть котэ
-- 🚴 Люблю кататься на велосипеде
-- 📫 [ВК - @Илья](https://vk.com/isychugov)
+- 🎮 Геймер
+- 🎥 Киноман
+- 🎵 Меломан
+
+💻 [ВК - @Иван](https://vk.com/idbullet47)
+
+📧 ivanpasechnik1@gmail.com
+📧 vonorapunzel@ynadex.ru
 
 <img src="https://github-readme-stats.vercel.app/api?username=vonorapunzel&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 <img align="left" height="130" style="margin-bottom: 10px; display: flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaSy&layout=compact&title_color=ffffff&text_color=daf7dc&bg_color=151515" />
