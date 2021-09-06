@@ -7,9 +7,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)<br>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)<br>
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=Ubuntu)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)<br>
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=Ubuntu)<br>
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
@@ -18,7 +17,8 @@
 - 🎥 Киноман
 - 🎵 Меломан
 
-💻 [ВК - @Иван](https://vk.com/idbullet47)
+💻 [Telegram- @Иван](https://t.me/Bullet4747)
+
 
 📧 ivanpasechnik1@gmail.com<br>
 📧 vonorapunzel@ynadex.ru
